@@ -1,0 +1,63 @@
+{
+    "files": {
+        "formatter.py": {
+            "comments": 3,
+            "language": "Python",
+            "mccabe": 12,
+            "positions": [
+                {
+                    "end": 67,
+                    "methods": [
+                        {
+                            "end": 13,
+                            "name": "imprimes",
+                            "start": 11,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 21,
+                            "name": "drop_accents",
+                            "start": 14,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 27,
+                            "name": "drop_whitespaces",
+                            "start": 22,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 39,
+                            "name": "drop_accents_whitespaces",
+                            "start": 28,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 48,
+                            "name": "hostFromUrl",
+                            "start": 40,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 58,
+                            "name": "isUrl",
+                            "start": 49,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 67,
+                            "name": "isPath",
+                            "start": 59,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Formatter",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "ratio_comment_to_code": 0.06,
+            "sloc": 53
+        }
+    }
+}
